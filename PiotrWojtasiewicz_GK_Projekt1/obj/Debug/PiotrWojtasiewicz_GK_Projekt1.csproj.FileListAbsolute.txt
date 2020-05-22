@@ -1,0 +1,40 @@
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.exe.config
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.exe
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.pdb
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Properties.Resources.resources
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.exe
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.pdb
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\sfml-audio.dll
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\sfml-graphics.dll
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\sfml-system.dll
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\sfml-window.dll
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Draw_Control.resources
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Form1.resources
+C:\Users\piotr\Desktop\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.CopyComplete
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.exe.config
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.exe
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.pdb
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Draw_Control.resources
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Form1.resources
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Properties.Resources.resources
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.CopyComplete
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.exe
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.pdb
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.exe.config
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.exe
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\bin\Debug\PiotrWojtasiewicz_GK_Projekt1.pdb
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csprojAssemblyReference.cache
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Draw_Control.resources
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Form1.resources
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.Properties.Resources.resources
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.csproj.CopyComplete
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.exe
+C:\Users\piotr\Desktop\Rok 3 sem 6\Grafika komputerowa\Stary\PiotrWojtasiewicz_GK_Projekt1\PiotrWojtasiewicz_GK_Projekt1\obj\Debug\PiotrWojtasiewicz_GK_Projekt1.pdb
